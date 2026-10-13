@@ -1,0 +1,6 @@
+{
+  "name": "HanYu Master - Học Tiếng Trung Toàn Diện",
+  "description": "Ứng dụng học tiếng Trung chuyên nghiệp với đầy đủ tiện ích: Từ điển Hán tự, bảng Pinyin âm thanh, luyện viết ô chữ Mễ, lộ trình HSK 1-6, Flashcard và Gia sư AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
